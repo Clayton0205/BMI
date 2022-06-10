@@ -1,0 +1,46 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+#head
+{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+#height
+{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+#weight
+{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+#age
+{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+#calculate
+{
+
+}
+
+.container
+{
+max-width: 200px;
+max-height: 500px;
+background-color: brown;
+}
+
